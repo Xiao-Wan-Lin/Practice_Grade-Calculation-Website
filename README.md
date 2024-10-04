@@ -1,4 +1,4 @@
-# Practice_Grade-Calculation-Website
+# Grade Calculation Website
 A website for calculating student GPA
 
 # The technologies used
