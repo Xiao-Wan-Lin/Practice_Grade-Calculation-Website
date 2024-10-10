@@ -14,3 +14,5 @@ A website for calculating student GPA
 - `document.querySelector` and `document.querySelectorAll` are used to select DOM elements.
 - The `forEach` method is used to iterate over a NodeList or Array, executing a specified function on each element
 - Use `setTimeout` to delay the execution of certain operations to ensure data processing is complete
+
+![project_image4](https://github.com/user-attachments/assets/3eee65ba-5d84-453b-ba9c-5085f70823ad)
